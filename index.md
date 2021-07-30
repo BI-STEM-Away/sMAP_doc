@@ -2,4 +2,5 @@
 layout: home
 ---
 
-Make Jelly site have a GitBook look!
+# sMAP: Standard Microarray Analysis Pipeline App
+An R Shiny educational app to guide users through a interactive transcriptomics pipeline
