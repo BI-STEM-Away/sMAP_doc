@@ -6,8 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-## Batch Correction
-
 ### Code Description: 
 Before batch correction occurs there is a drop down menu in the UI to ask the user to select which metadata column provides the batch assignment for each of the samples. Then the user selects the button Perform Batch Correction and the process of batch correction takes place in the Server using the ComBat() function. Once the server code runs and batch correction is complete, the user will see a text output saying “Batch Correction is Complete”. 
 
