@@ -1,7 +1,7 @@
 ---
 title: Normalization (RMA GCRMA and MAS 5)
 author: Tao He
-date: 2019-04-28
+date: 2021-07-02
 category: Jekyll
 layout: post
 ---
