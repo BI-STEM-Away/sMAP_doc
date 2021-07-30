@@ -23,10 +23,10 @@
             "search": {},
             "sharing": {
                 "all": ["facebook", "google", "twitter", "weibo", "instapaper"],
-                "facebook": true,
+                "facebook": false,
                 "google": false,
                 "instapaper": false,
-                "twitter": true,
+                "twitter": false,
                 "vk": false,
                 "weibo": false
             },
@@ -43,7 +43,7 @@
             }
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "Samuel Bharti",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
